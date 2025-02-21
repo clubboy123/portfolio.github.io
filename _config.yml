@@ -1,5 +1,5 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
@@ -20,7 +20,7 @@ name: 'Eric Kuo'
 author: 'Eric Kuo'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
@@ -34,14 +34,14 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+  - icon: twitter
+    url: https://twitter.com/dirkfabisch
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
+#    - icon:	facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
