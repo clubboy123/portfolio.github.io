@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Eric Kuo"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A Jekyll theme - Medium inspired and add something to test
 
-email: a-mail@mail.mail
+email: erickuoyusheng@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/S__133627924.jpg"  
 float_logo: true # true, false (default)
 
 # blog cover
