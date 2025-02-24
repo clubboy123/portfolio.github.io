@@ -8,9 +8,13 @@ title: "Eric Kuo"
 description: > # this means to ignore newlines until "email:"
    嘗試設計自己的個人網站，不再被別的其他網站所限制，自由發揮自己的創意，這是一個很好的開始。
 
+# Favicon
+favicon: "/assets/icon/favicon.ico"
+
+
 email: erickuoyusheng@gmail.com
 #blog logo
-logo: "/assets/images/S__133627924.jpg"  
+logo: "/assets/images/S__133627924_2.jpg"  
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,7 +22,7 @@ cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
 name: 'Eric Kuo'
 author: 'Eric Kuo'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/sea_otter.png"
 
 paginate: 5
 
@@ -34,12 +38,12 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 social:
-  - icon: twitter
-    url: https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+#  - icon: twitter
+#    url: https://twitter.com/dirkfabisch
+#    desc: Follow me on twitter
+#    share_url: http://twitter.com/share
+#    share_title: ?text=
+#    share_link: "&amp;url="
 
 #    - icon:	facebook
 #    url:	https://facebook.com/???
@@ -49,7 +53,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/clubboy123
     desc:	Fork me on github
     share_url:
     share_title:
