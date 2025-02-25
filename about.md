@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/article_images/about/apple-tree.jpg
+image: /assets/article_images/about/apple_tree.jpg
 
 ---
 _________________
