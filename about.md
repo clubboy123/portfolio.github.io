@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: /assets/article_images/about/OIP.jpg
+image: /portfolio.github.io/assets/article_images/about/apple_tree.jpg
 
 ---
 _________________
