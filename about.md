@@ -4,14 +4,26 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+1996 出生  天秤座
+---
+# 興趣
+探索、解構再重塑
+
+# 學歷
+國立陽明交通大學 生物醫學影像暨放射科學系 大學畢
+
+# 經歷
+2022-2023   西門子 產品專員
+2024-今     普瑞默生技 核子醫學應用專員
+---
+# 自傳
+沒什麼好寫的，**普通人**一個
+
+
+>「沒有什麼人喜歡孤獨，只是討厭失望而已。」
+> 村上春樹《挪威的森林》
+
