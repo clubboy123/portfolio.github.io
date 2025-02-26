@@ -14,8 +14,9 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 > 並且重中獲得成就感或是一些實用技能，例如 **看懂Code**
 
 # 放張照片來試試看
-![img1](/assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG) 
-![img2](/assets/images/screenshot2.jpg)
+![image1](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Default_3840x2400.jpg) 
+
+![image2](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Option_01_3840x2400.jpg)
 
 
 #### 接下來要做的計畫
