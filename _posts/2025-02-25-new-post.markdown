@@ -11,12 +11,12 @@ image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.J
 總算是完成了設定，確實從Github pages 建立自己的網頁是非常值得花時間的Side project
 > 很有需要有個不受到其他網頁限制的創作平台
 >
-> 並且重中獲得成就感或是一些實用技能，例如 **看懂Code**
+> 並且從中獲得成就感或是一些實用技能，例如 **看懂Code**
 
 # 放張照片來試試看
-![image1](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Default_3840x2400.jpg) 
+![](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Default_3840x2400.jpg) 
 
-![image2](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Option_01_3840x2400.jpg)
+![桌布](/portfolio.github.io/assets/article_images/2025-02-25-New_post/2024_Acer_Consumer_Option_01_3840x2400.jpg)
 
 
 #### 接下來要做的計畫
