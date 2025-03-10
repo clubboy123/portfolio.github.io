@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "搬家"
+date:   2025-03-10
+categories: 
+tags: 心情隨筆
+image: /assets/article_images/727cb6f34265cec26d9d308b0cb3dd12.jpg
+image2: /assets/article_images/C727cb6f34265cec26d9d308b0cb3dd12.jpg
+---
+## 搬家了，從Medium離開了......
+----
+過去常常在[Medium](https://medium.com/@clubboy123_36206)寫文章的我。
+
+突然想到要自己架設一個靜態網站，持續提供著分享的慾望。
+或許是Side Project興趣，讓我從中學習到其實架設網站也不算太困難。
+
+在沒有創作的日子裡，一路上有趣的事情發生太多了
