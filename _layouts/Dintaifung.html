@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Din Tai Fung</title>
+    <style>
+        /* 添加一些簡單的樣式 */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .result {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Din Tai Fung 等候時間查詢</h1>
+    <label for="day-select">選擇星期:</label>
+    <select id="day-select">
+        <option value="星期一">星期一</option>
+        <option value="星期二">星期二</option>
+        <option value="星期三">星期三</option>
+        <option value="星期四">星期四</option>
+        <option value="星期五">星期五</option>
+        <option value="星期六">星期六</option>
+        <option value="星期日">星期日</option>
+    </select>
+    
+    <label for="time-select">選擇時間:</label>
+    <select id="time-select">
+        <option value="10">10:00 AM</option>
+        <option value="11">11:00 AM</option>
+        <option value="12">12:00 PM</option>
+        <option value="13">1:00 PM</option>
+        <option value="14">2:00 PM</option>
+        <option value="15">3:00 PM</option>
+        <option value="16">4:00 PM</option>
+        <option value="17">5:00 PM</option>
+        <option value="18">6:00 PM</option>
+        <option value="19">7:00 PM</option>
+        <option value="20">8:00 PM</option>
+    </select>
+    <br><br>
+    <button onclick="showWaitTime()">查詢等候時間</button>
+    <div class="result" id="result"></div>
+
+    <script>
+        function showWaitTime() {
+            const daySelect = document.getElementById('day-select');
+            const timeSelect = document.getElementById('time-select');
+            const result = document.getElementById('result');
+            const day = daySelect.value;
+            const time = timeSelect.value;
+
+            // 根據選擇的時間設置等候時間（這裡使用隨機數模擬）
+            const waitTime = Math.floor(Math.random() * 60) + 1; // 1 到 60 分鐘的隨機數
+
+            result.textContent = `選擇的星期是 ${day}，時間是 ${time}:00，預計等候時間是 ${waitTime} 分鐘。`;
+        }
+    </script>
+</body>
+</html>
